@@ -1,0 +1,10 @@
+20BCB0056,Java,78,C++,63
+20BCB0058,Chemistry,85,Calculus,84
+20BCE0078,Calculus,85,C++,70,Java,20
+20BCE0650,DSA,50,DLD,85,English,67
+20BCB0024,DSA,95,Java,65,C++,85,English,86,Calculus,84
+20BCT0056,Chemistry,50,DSA,85
+20BCE0056,C++,65,English,84,Physics,67
+20BCE0084,C++,87,Calculus,75,English,98
+20BCT0076,Chemistry,70,DSA,95
+20BCE0074,C++,75,English,44,Physics,87
